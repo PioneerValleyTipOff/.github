@@ -4,6 +4,6 @@ The Pioneer Valley Tip-Off Data Analytics Team serves to collect and analyze rea
 
 - Data Cleaning
 - Visualizations & Insights
-- Logisitc Regression Model using Dean Oliver Four Factors
+- Four Factors Model (Logisitc Regression)
 
 Along with these code files, we have generated scouting reports for each of the teams using the data that was scrapped and added from these files. Ideally, future iterations of the team will take the exisiting repositories from here and make changes or add new ones.
