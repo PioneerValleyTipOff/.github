@@ -6,4 +6,4 @@ The Pioneer Valley Tip-Off Data Analytics Team serves to collect and analyze rea
 - Visualizations & Insights
 - Four Factors Model & Rank System (Logistic Regression)
 
-Along with these code files, we have generated scouting reports (not on GitHub) for each of the teams using the data that was scrapped and added from these files. Ideally, future iterations will take the exisiting repositories from here and make changes or add new datapoints.
+Along with these code files, we have generated scouting reports (not on GitHub) for each of the teams using the data that was scrapped and added from these files. Ideally, future iterations will take the exisiting repositories from here and make changes or add new datapoints for further analysis.
