@@ -1,6 +1,6 @@
 # Overview
 
-The Pioneer Valley Tip-Off Data Analytics Team serves to collect and analyze real time basketball data. The work from 2022 is posted here. You will find the following repositories consisting of a code file and a ReadMe section for each of the following down below:
+The Pioneer Valley Tip-Off Data Analytics Team serves to collect and analyze real time basketball data. You will find the following repositories consisting of code files, historical data, and a ReadMe section for each of the following down below:
 
 - Data Cleaning
 - Visualizations & Insights
